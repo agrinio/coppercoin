@@ -1,0 +1,4 @@
+coppercoin
+==========
+
+Cryptocurrency coin
